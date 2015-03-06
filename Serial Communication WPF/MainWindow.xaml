@@ -1,0 +1,17 @@
+﻿<Window x:Class="Serial_Communication_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Rectangle Fill="#FFF0F0CD" HorizontalAlignment="Left" Height="319" Stroke="Black" VerticalAlignment="Top" Width="517"/>
+        <Image HorizontalAlignment="Left" Height="110" VerticalAlignment="Top" Width="110" Source="logo.png" Margin="397,199,0,0" RenderTransformOrigin="1.111,0.58"/>
+        <Button x:Name="Connect_btn" Click="Connect_Comms" Content="CLICK TO CHECK" HorizontalAlignment="Left" Margin="20,260,0,0" VerticalAlignment="Top" Width="174" Height="45" Background="#FF14FF74" FontFamily="Vani" FontSize="20"/>
+        <Rectangle x:Name="key1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="150" Margin="10,31,0,0" Stroke="Black" VerticalAlignment="Top" Width="150"/>
+        <Rectangle x:Name="key2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="150" Margin="182,31,0,0" Stroke="Black" VerticalAlignment="Top" Width="150"/>
+        <TextBox HorizontalAlignment="Left" Height="56" Margin="130,199,0,0" TextWrapping="Wrap" Text="NeverLose!" VerticalAlignment="Top" Width="245" TextAlignment="Center" FontFamily="Stencil" FontSize="36" TextChanged="TextBox_TextChanged" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Rectangle x:Name="key3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="150" Margin="357,31,0,0" Stroke="Black" VerticalAlignment="Top" Width="150"/>
+        <Image HorizontalAlignment="Left" Height="117" Margin="10,45,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\key.jpg" Opacity="0.5" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="117" Margin="182,45,0,0" VerticalAlignment="Top" Width="150" Source="credit.jpg" Opacity="0.5"/>
+        <Image HorizontalAlignment="Left" Height="117" Margin="357,45,0,0" VerticalAlignment="Top" Width="150" Source="ring.jpg" Stretch="Fill" Opacity="0.5"/>
+    </Grid>
+</Window>

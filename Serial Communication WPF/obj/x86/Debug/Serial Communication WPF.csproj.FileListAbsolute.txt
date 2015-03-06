@@ -1,0 +1,12 @@
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\bin\Debug\Serial Communication WPF.exe
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\bin\Debug\Serial Communication WPF.pdb
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF.csprojResolveAssemblyReference.cache
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\App.g.cs
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF_MarkupCompile.cache
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF.g.resources
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial_Communication_WPF.Properties.Resources.resources
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF.csproj.GenerateResource.Cache
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF.exe
+C:\Users\rlingineni\Documents\Hackathons\Serial Communication WPF\obj\x86\Debug\Serial Communication WPF.pdb

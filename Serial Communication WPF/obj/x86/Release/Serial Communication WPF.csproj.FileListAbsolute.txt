@@ -1,0 +1,12 @@
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.exe
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.pdb
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csprojResolveAssemblyReference.cache
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.baml
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.g.cs
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\App.g.cs
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF_MarkupCompile.cache
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.g.resources
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial_Communication_WPF.Properties.Resources.resources
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csproj.GenerateResource.Cache
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.exe
+C:\Users\rlingineni\AppData\Local\Temp\Serial_Communication_WPF\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.pdb
